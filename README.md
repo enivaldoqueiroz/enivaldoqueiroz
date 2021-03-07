@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz&show_icons=true&theme=dark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz)](https://github.com/enivaldoqueiroz/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz)](https://github.com/enivaldoqueiroz/github-readme-stats)
+
+[! [Cartão Leiame] (https://github-readme-stats.vercel.app/api/pin/ ? Username = enivaldoqueiroz & repo = github-readme-stats )] (https://github.com/enivaldoqueiroz/github- readme-stats)
+
 
 
 <p align="left">
