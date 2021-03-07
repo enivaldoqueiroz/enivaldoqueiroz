@@ -18,4 +18,11 @@ Here are some ideas to get you started:
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&layout=compact)](https://github.com/enivaldoqueiroz/github-readme-stats)
 
-[![Linkedin: Josué Lopes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enivaldo-queiroz-138996121//)](https://https://www.linkedin.com/in/enivaldo-queiroz-138996121/) 
+<p align="left">
+    <a href=" https://dev.to/enivaldoqueiroz " target=" blank "> <img align=" center "
+            src=" https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev- dot-to.svg " alt=" enivaldoqueiroz "
+            height=" 30 " largura=" 40 " /> </a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/enivaldo-queiroz-138996121/" target="blank"> <img
+            align="center" src=" https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg "
+            alt=" https://www.linkedin.com/in/enivaldo-queiroz-138996121/ " height="30" width="40" /> </a>
+</p>
