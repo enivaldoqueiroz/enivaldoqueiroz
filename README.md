@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 [![Linkedin: enivaldo-queiroz](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enivaldo-queiroz-138996121//)](https://www.linkedin.com/in/enivaldo-queiroz-138996121/) 
 
 
-<a href="https://github.com/enivaldoqueiroz/github-readme-stats">
+<a href="https://github.com/enivaldoqueiroz/Gerenciamento-de-Tarefas-em-Angular11">
   <img align="center" src="https://github.com/enivaldoqueiroz/Gerenciamento-de-Tarefas-em-Angular11" />
 </a>
-<a href="https://github.com/enivaldoqueiroz/convoychat">
+<a href="https://github.com/enivaldoqueiroz/Gerenciamento-de-Tarefas-em-Angular11">
   <img align="center" src="https://github.com/enivaldoqueiroz/Gerenciamento-de-Tarefas-em-Angular11" />
 </a>
