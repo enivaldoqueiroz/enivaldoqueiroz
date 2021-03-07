@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&layout=compact)](https://github.com/enivaldoqueiroz/github-readme-stats)
 
-[![Linkedin: Josué Lopes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enivaldo-queiroz-138996121//)](https://www.linkedin.com/in/josu%C3%A9-lopes-699b3b1a3/) 
+[![Linkedin: Josué Lopes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enivaldo-queiroz-138996121//)](https://https://www.linkedin.com/in/enivaldo-queiroz-138996121/) 
