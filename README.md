@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&layout=compact)](https://github.com/enivaldoqueiroz/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz)](https://github.com/enivaldoqueiroz/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz)](https://github.com/enivaldoqueiroz/github-readme-stats)
 
 
