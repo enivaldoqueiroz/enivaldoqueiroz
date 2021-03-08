@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&show_icons=true&theme=dark)](https://github.com/enivaldoqueiroz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&show_icons=true)](https://github.com/enivaldoqueiroz/github-readme-stats)
 
 [![Linkedin: enivaldo-queiroz](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enivaldo-queiroz-138996121//)](https://www.linkedin.com/in/enivaldo-queiroz-138996121/) 
