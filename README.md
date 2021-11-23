@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&show_icons=true)](https://github.com/enivaldoqueiroz/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enivaldoqueiroz)](https://github.com/enivaldoqueiroz/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/enivaldoqueiroz/github-readme-stats)
 
 [![Linkedin: enivaldo-queiroz](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enivaldo-queiroz-138996121//)](https://www.linkedin.com/in/enivaldo-queiroz-138996121/) 
