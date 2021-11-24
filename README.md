@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Ceará - Fortaleza, Brazil.
+  A mobile and .net developer from Fortaleza - Ceará, Brazil.
 </p>
 
 
