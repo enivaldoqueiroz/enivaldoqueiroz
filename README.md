@@ -1,6 +1,3 @@
-### Hell World, I'm Enivaldo 👋
-
-
 <h1 align='center'>
   Hi there 👋 I'm Enivaldo Queiroz 👨‍💻
 </h1>
@@ -133,9 +130,6 @@
 | [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
 | [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
-  
-
--->
 
 </details>
 
@@ -155,7 +149,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz&show_icons=true)
@@ -163,3 +157,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&show_icons=true)](https://github.com/enivaldoqueiroz/github-readme-stats)
 
 [![Linkedin: enivaldo-queiroz](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enivaldo-queiroz-138996121//)](https://www.linkedin.com/in/enivaldo-queiroz-138996121/) 
+-->
