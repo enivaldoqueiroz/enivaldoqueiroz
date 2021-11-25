@@ -21,7 +21,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&show_icons=true" width="350"></a>
+  <a href="#"><img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&show_icons=true)](https://github.com/enivaldoqueiroz/github-readme-stats)" width="350"></a>
 </p>
 
 <p align='center'>
