@@ -21,6 +21,10 @@
 </p>
 
 <p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&show_icons=true" width="350"></a>
+</p>
+
+<p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
@@ -36,7 +40,7 @@
 </p>
 
 <details>
-  <summary>📃 Summary of my resume</summary>
+  <summary>📃 Resumo </summary>
 
 
 ## Education
