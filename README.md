@@ -67,8 +67,6 @@
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 -->
 
-
-<img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -78,7 +76,6 @@
 📆 2020 - nov/2021\
 📍 **Unimed Fortaleza - Sede (Homeoffice)** - Fortaleza/CE, Brazil
 
-<img align="right" src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
@@ -98,9 +95,6 @@
 📆 2018 - 2020\
 📍 **Stefanini IT Solutions(BNB Banco do Nordeste)** - Fortaleza/CE, Brazil
 
-<img align="right" src="https://img.shields.io/badge/citrix-%23452170.svg?&style=for-the-badge&logo=citrix&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/xfce-%232284F2.svg?&style=for-the-badge&logo=xfce&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
