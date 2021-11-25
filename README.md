@@ -20,9 +20,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=enivaldoqueiroz&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&show_icons=true" width="350"></a>
-</p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -39,12 +36,16 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/enivaldoqueiroz/enivaldoqueiroz"></a> hipsters and nerds have come here o/
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enivaldoqueiroz&show_icons=true" width="350"></a>
+</p>
+
 <details>
   <summary>📃 Resumo </summary>
 
 
 ## Education
-
+<!--
 - 📖 **Web Development**\
 📆 2013 - 2016\
 📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
@@ -64,10 +65,10 @@
 📍 **Avanade** - São Paulo/SP, Brazil
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - jun/2021\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+-->
+- 👨‍💻 **Estágio Nível Superior - Desenvolvedor Java**\
+📆 2020 - nov/2021\
+📍 **Unimed Fortaleza - Sede (Homeoffice)** - Fortaleza/CE, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
@@ -77,9 +78,9 @@
 <img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **CIO and Cross Mobile Developer**\
-📆 2016 - 2021\
-📍 **Infinitus Solutions** - Curitiba/PR, Brazil
+- 👨‍💻 **Técnico em Suporte Nível II**\
+📆 2018 - 2021\
+📍 **Stefanini IT Solutions(PRODESP - DETRAN-SP)** - São Paulo/SP, Brazil
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -87,9 +88,9 @@
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
-- 👨‍💻 **Systems Analyst and Front End Developer**\
-📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
+- 👨‍💻 **Técnico em Suporte Nível II**\
+📆 2018 - 2020\
+📍 **Stefanini IT Solutions(BNB Banco do Nordeste)** - Fortaleza/CE, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
@@ -97,9 +98,9 @@
 <img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
 
 
-- 👨‍💻 **Office Assistant**\
-📆 2011 - 2015\
-📍 **Energisa** - Presidente Prudente/SP, Brazil
+- 👨‍💻 **Técnico em Suporte Nível II - Soldado de 1ª Classe(S1)**\
+📆 2011 - 2017\
+📍 **Base Aérea de Fortaleza - BAFZ** - Fortaleza/CE, Brazil
 
 <!--## Skills
 
