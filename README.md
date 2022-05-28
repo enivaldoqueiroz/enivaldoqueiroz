@@ -52,55 +52,60 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
 - 👨‍💻 **Full Stack Developer - Desenvolvedor C#| .NET | ASP.NET**\
 📆 nov/2021 - may/2022\
 📍 **Fitbank 450** - Fortaleza/CE, Brazil
-
+  
+<!--
 <img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-
+-->
+  
 - 👨‍💻 **Estágio Nível Superior - Desenvolvedor C#| .NET | ASP.NET**\
 📆 nov/2021 - may/2022\
 📍 **Fitbank 450** - Fortaleza/CE, Brazil
   
+<!--  
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-
+-->
+  
 - 👨‍💻 **Estágio Nível Superior - Desenvolvedor Java**\
 📆 2020 - nov/2021\
 📍 **Unimed Fortaleza - Sede (Homeoffice)** - Fortaleza/CE, Brazil
-
+  
+<!--
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-
+-->
+  
 - 👨‍💻 **Técnico em Suporte Nível II**\
 📆 2018 - 2021\
 📍 **Stefanini IT Solutions(PRODESP - DETRAN-SP)** - São Paulo/SP, Brazil
-
+<!--
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-
+-->
+  
 - 👨‍💻 **Técnico em Suporte Nível II**\
 📆 2018 - 2020\
 📍 **Stefanini IT Solutions(BNB Banco do Nordeste)** - Fortaleza/CE, Brazil
-
+<!--
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-
+-->
 
 - 👨‍💻 **Técnico em Suporte Nível II - Soldado de 1ª Classe(S1)**\
 📆 2011 - 2017\
