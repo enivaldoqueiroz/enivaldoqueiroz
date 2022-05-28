@@ -58,22 +58,23 @@
 📆 nov/2021 - may/2022\
 📍 **Fitbank 450** - Fortaleza/CE, Brazil
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 - 👨‍💻 **Estágio Nível Superior - Desenvolvedor C#| .NET | ASP.NET**\
 📆 nov/2021 - may/2022\
 📍 **Fitbank 450** - Fortaleza/CE, Brazil
   
-<img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-
-
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 
 - 👨‍💻 **Estágio Nível Superior - Desenvolvedor Java**\
 📆 2020 - nov/2021\
@@ -82,7 +83,7 @@
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 
 - 👨‍💻 **Técnico em Suporte Nível II**\
 📆 2018 - 2021\
