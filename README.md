@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Fortaleza - Ceará, Brazil.
+  A full stack developer and .net developer from Fortaleza - Ceará, Brazil.
 </p>
 
 
@@ -105,7 +105,7 @@
 📆 2011 - 2017\
 📍 **Base Aérea de Fortaleza - BAFZ** - Fortaleza/CE, Brazil
 
-<!--## Skills
+## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
