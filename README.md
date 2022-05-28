@@ -45,27 +45,27 @@
 
 
 ## Education
-<!--
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+
+- 📖 **Computer Science(Bolsita)**\
+📆 2017 - \
+📍 **Centro Universitario Farias Brito** - Forteleza/CE, Brazil
 
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - moment\
-📍 **Xp Inc** - São Paulo/SP, Brazil
-  
+- 👨‍💻 **Full Stack Developer - Desenvolvedor C#| .NET | ASP.NET**\
+📆 nov/2021 - may/2022\
+📍 **Fitbank 450** - Fortaleza/CE, Brazil
+
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - oct/2021\
-📍 **Avanade** - São Paulo/SP, Brazil
+- 👨‍💻 **Estágio Nível Superior - Desenvolvedor C#| .NET | ASP.NET**\
+📆 nov/2021 - may/2022\
+📍 **Fitbank 450** - Fortaleza/CE, Brazil
   
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
--->
+<img align="right" src="[https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)" />
+
 
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
