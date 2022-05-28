@@ -46,7 +46,7 @@
 
 ## Education
 
-- 📖 **Computer Science(Bolsita)**\
+- 📖 **Ciencias da Computação (Bolsista)**\
 📆 2017 - \
 📍 **Centro Universitario Farias Brito** - Forteleza/CE, Brazil
 
