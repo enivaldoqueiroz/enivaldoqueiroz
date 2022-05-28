@@ -64,7 +64,7 @@
 📆 nov/2021 - may/2022\
 📍 **Fitbank 450** - Fortaleza/CE, Brazil
   
-<img align="right" src="[https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)" />
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
